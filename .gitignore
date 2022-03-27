@@ -1,5 +1,5 @@
 .env
-*.ipynb
 .git
 .ipynb_checkpoints
 *.csv
+constants.py
