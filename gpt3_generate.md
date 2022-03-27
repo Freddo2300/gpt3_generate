@@ -16,15 +16,11 @@ jupyter:
 ```python
 import openai
 import os
-from dotenv import load_dotenv
+import constants
 ```
 
 ```python
-load_dotenv()
-```
-
-```python
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = constants.OPENAI_API_KEY
 ```
 
 ```python
