@@ -1,16 +1,11 @@
 # gpt3_generate
-in order to make the API function, you will need to create a python file 'constants.py' in which the variable 'OPENAI_API_KEY' should go.
+This project was part of a university course at Copenhagen Businss School. The course was Artificial Intelligence and Machine Learning. Summer 2022.
 
-## Git basics
-use git bash or powershell to run git commands. In order to clone project into local repository, run 'git clone https://github.com/Freddo2300/gpt3_generate.git".
+Credits are due to georgetown-cset as this project is heavily inspired by work they have done. See [GPT3-Disinformation](https://github.com/georgetown-cset/GPT3-Disinformation).
 
-Next you will want to run 'git branch -M main' to create your main branch
+Further, credits are due to dataset original provider D. Greene and P. Cunningham for their making the dataset available online. For further reference [download](https://dl.acm.org/doi/pdf/10.1145/1143844.1143892?casa_token=RADwlTB5UUQAAAAA:ULu0u9bssJZowo3vb8z9GLgZj-prBi6o98emwIeUCOz4QFsHg12vmnObpQQzaeQpouXgJw0xl9z1y-8).
 
-Once the project is cloned, these are the most common git commands:
-- git pull 				: pulls all changes from remote to local repository
-- git add <file1><file2>...<filenth>	: add locally changed files for staging
-- git rm --cached <file1>...<filenth>	: remove file from remote, but not from local
-- git branch <branch-name>		: creates a new branch
-- git checkout <branch-name>		: switches to another branch
-- git commit -m "<message>"		: commit added files to be pushed to remote
-- git push -u origin main		: pushes local changes to remote github repo
+Bogusz Dyoniziak
+Frederik Strøm Friborg
+Lukas Schwendenwein
+Nikita Kolmakov
