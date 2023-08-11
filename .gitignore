@@ -1,5 +1,12 @@
 .env
 .git
 .ipynb_checkpoints
-*.csv
 constants.py
+__pycache__/
+articles1.csv
+complettion_prepared.jsonl
+gpt3_promts_prepared.jsonl
+GPT3-Disinformation/
+prompt_prepared.jsonl
+prompts_completion_prepared.jsonl
+survey_articles.csv
